@@ -64,5 +64,11 @@ header {
 
 .container-fluid {
   border-top: 5px solid #000000;
+  border-bottom: 5px solid #000000;
+  margin-bottom: 40px;
+  
 }
 
+.notice {
+  color: green;
+}
