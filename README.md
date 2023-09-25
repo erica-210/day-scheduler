@@ -14,7 +14,7 @@ https://erica-210.github.io/day-scheduler/
 
 Github Repository: https://github.com/erica-210/day-scheduler
 
-![alt text](./assets/Work%20Day%20Scheduler%20-%20Google%20Chrome%209_24_2023%2011_53_41%20PM.png)
+![alt text](./Assets/Work%20Day%20Scheduler%20-%20Google%20Chrome%209_24_2023%2011_53_41%20PM.png)
 
 ## Credits
 
